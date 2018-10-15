@@ -1,0 +1,33 @@
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.deps.json
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.json
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.dev.json
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csprojAssemblyReference.cache
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfoInputs.cache
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfo.cs
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.pdb
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.dll
+S:/Sem 3/INFO6250/labs/lab4/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.deps.json
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.json
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfo.cs
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/1/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.deps.json
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.json
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.AssemblyInfo.cs
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.1/ConsoleApp1.pdb

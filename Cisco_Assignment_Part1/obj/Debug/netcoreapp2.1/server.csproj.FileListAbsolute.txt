@@ -1,0 +1,41 @@
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.deps.json
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.runtimeconfig.json
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.runtimeconfig.dev.json
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.dll
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.pdb
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.csproj.CoreCompileInputs.cache
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cache
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cs
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.AssemblyInfoInputs.cache
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.AssemblyInfo.cs
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorTargetAssemblyInfo.cache
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.dll
+C:/Northeastern Study material/INFO6250/Lecture 4 lab 4/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.deps.json
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.runtimeconfig.json
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.runtimeconfig.dev.json
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.csprojAssemblyReference.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.csproj.CoreCompileInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cs
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.AssemblyInfoInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.AssemblyInfo.cs
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorTargetAssemblyInfo.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/New folder/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.deps.json
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.runtimeconfig.json
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.runtimeconfig.dev.json
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/bin/Debug/netcoreapp2.1/server.pdb
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.csprojAssemblyReference.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.csproj.CoreCompileInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorAssemblyInfo.cs
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.AssemblyInfoInputs.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.AssemblyInfo.cs
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.RazorTargetAssemblyInfo.cache
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.dll
+/Users/ajaygoel/Documents/NEU/Web Tools/Cisco Assignment/Student_WebAPI(Professor)/obj/Debug/netcoreapp2.1/server.pdb

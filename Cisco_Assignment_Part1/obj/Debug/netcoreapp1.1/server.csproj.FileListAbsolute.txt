@@ -1,0 +1,38 @@
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.deps.json
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.json
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.dev.json
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.dll
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.pdb
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.AssemblyInfo.cs
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.dll
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\4.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.pdb
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.deps.json
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.json
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.dev.json
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.dll
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.pdb
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.AssemblyInfo.cs
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.dll
+d:\user\docs\BU\cs651\su.17\Lecture 8\labs\5.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.pdb
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.deps.json
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.json
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.dev.json
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.dll
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\bin\Debug\netcoreapp1.1\server.pdb
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.csproj.CoreCompileInputs.cache
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.AssemblyInfoInputs.cache
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.AssemblyInfo.cs
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.dll
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.pdb
+D:\user\docs\NU\_Info6250\Lecture 4\labs\2.CoreWebAPI\server\obj\Debug\netcoreapp1.1\server.csprojResolveAssemblyReference.cache
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\bin\Debug\netcoreapp1.1\server.deps.json
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\bin\Debug\netcoreapp1.1\server.runtimeconfig.json
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\bin\Debug\netcoreapp1.1\server.runtimeconfig.dev.json
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\bin\Debug\netcoreapp1.1\server.dll
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\bin\Debug\netcoreapp1.1\server.pdb
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\obj\Debug\netcoreapp1.1\server.csprojAssemblyReference.cache
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\obj\Debug\netcoreapp1.1\server.csproj.CoreCompileInputs.cache
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\obj\Debug\netcoreapp1.1\server.AssemblyInfoInputs.cache
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\obj\Debug\netcoreapp1.1\server.AssemblyInfo.cs
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\obj\Debug\netcoreapp1.1\server.dll
+C:\Northeastern Study material\INFO6250\Lecture 4 lab 4\Student_WebAPI(Professor)\obj\Debug\netcoreapp1.1\server.pdb
